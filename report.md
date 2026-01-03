@@ -1,3 +1,10 @@
+## Project Overview
+This project was developed as part of a collaborative effort on PMU data bridging.
+
+## Contributors
+- Panisa Sukarin
+- Yeepun (original repository owner)
+
 # Background
 ## Gewertz square project
 Infrastructure Under Development: A RE100 Microgrid — a fully renewable energy-based power grid — composed entirely of power electronics-interfaced sources such as rooftop solar PV and Battery Energy Storage Systems (BESS). In the event of a power outage within Chulalongkorn University, the microgrid will switch to islanding operation mode, operating independently to ensure high reliability and resilience of the electrical system in the Gewertz square buildings. 

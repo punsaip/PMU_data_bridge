@@ -1,9 +1,7 @@
-## Project Overview
-This project was developed as part of a collaborative effort on PMU data bridging.
-
 ## Contributors
 - Panisa Sukarin
-- Yeepun (original repository owner)
+- Bongkotchmas Sukkho (original repository owner)
+- Sakura Yamashita
 
 # Background
 ## Gewertz square project
